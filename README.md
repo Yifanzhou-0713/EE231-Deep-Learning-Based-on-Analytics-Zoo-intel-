@@ -1,7 +1,7 @@
 ## Codes for EE231 Project
 
 ## Intel Deep Learning Based on Analytics-zoo 
-Here is the codes for our project.
+Here are the codes for our project.
 ###  test_fashion_mnist/
 The file for testing codes: the existing Analytics Zoo deep learning examples for training fashion_mnist dataset on cluster.
 ### svm-binary/
